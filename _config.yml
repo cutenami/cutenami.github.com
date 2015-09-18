@@ -12,4 +12,4 @@ markdown: kramdown
 #markdown: redcarpet
 highlighter: pygments
 #highlighter: true
-baseurl: /blog/
+baseurl: # /blog/
