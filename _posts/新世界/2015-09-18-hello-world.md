@@ -7,3 +7,7 @@ featured_image: /images/cover.jpg
 ---
 
 ###Hello World
+
+你好陌生人
+
+<!-- more -->
