@@ -6,7 +6,8 @@ categories: 新世界
 featured_image: /images/cover.jpg
 ---
 
-你好陌生人
+> 你好陌生人
+
 ![testpic](/res/blog/test.jpg)
 
 ###Hello World
