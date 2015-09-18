@@ -1,3 +1,14 @@
+---
+layout: page
+title: About me
+tags: [Jekyll, joway, blog, student, tech, post]
+modified: 2015-06-27
+image:
+  feature: 
+  credit: Joway.W
+  creditlink: https://joway.wang/about
+---
+
 <br>
 <br>
 <br>
@@ -8,9 +19,9 @@
 <br>
 <br>
 <br>
-####  Personal introduction：  ####
+####  Introduction：  ####
 
-- A sophister at an unconspicuous university in Hangzhou,China.
+- A sophister in an unconspicuous university in Hangzhou,China.
 
 - A liberalist, individualist, atheist and computer enthusiast .
 
@@ -18,7 +29,7 @@
 
 <br>
 
-####  Skills：  ####
+####  Technology：  ####
 
 - C && C++
 - HTML && CSS
@@ -49,7 +60,7 @@
 
 <br>
 
-####  Contact：  ####
+####  Contacts：  ####
 
 - **Email**：  **joway@joway.wang**
 
@@ -75,6 +86,7 @@
 <br>
 
 
+
 <div align="center">
       	<p>
         <strong>微信或支付宝扫描二维码即可赞助作者！</strong><br>
@@ -82,6 +94,8 @@
        <img src="https://joway.wang/images/alipay.jpg" width="225" height="225" alt=""/>
        </p>
 </div>
+
+
 
 
 
