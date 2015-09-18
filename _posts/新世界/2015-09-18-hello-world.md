@@ -6,8 +6,6 @@ categories: 新世界
 featured_image: /images/cover.jpg
 ---
 
-###Hello World
-
 你好陌生人
 
-<!-- more -->
+###Hello World
