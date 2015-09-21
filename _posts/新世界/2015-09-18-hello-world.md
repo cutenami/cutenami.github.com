@@ -6,6 +6,8 @@ categories: 新世界
 featured_image: /images/cover.jpg
 ---
 
-![testpic](/res/blog/test.jpg)
+Hello NaMi
 
-###Hello World
+###你好世界
+
+![testpic](/res/blog/test.jpg)
